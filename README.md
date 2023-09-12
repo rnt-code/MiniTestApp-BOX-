@@ -1,4 +1,4 @@
-# MiniTestApp (BOX)
+# Mini Test App (BOX)
  SE test w/ CHROMA 19052 & 19572, box version (NI USB-6525)
 
  Development platform: LabVIEW 2015
